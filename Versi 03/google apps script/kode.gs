@@ -13,10 +13,10 @@
 // SET VARIABLE 
 // Silakan diganti variable dibawah ini menyesuaikan kebutuhan
 // --------------------------------------------------------------------------------------------------------------------
-var idGambarLogo    = '13ClVA2xO5SDEmruMMsxoOU2-YGY-Sh0q'; // id file logo di google drive
-var idDataPegawai   = '1oFM55l2X4dkF6NnYc0BHwR7ZZmZZ9shXWQ9uKag5n18'; // id file spreadsheet
-var idFolderAbsensi = '1IOqpyDTKT12mOafF8sd1lz4ZF6jfU-84'; // id folder absensi
-var namaPerusahaan  = 'Fahroni Ganteng co, ltd';
+var idGambarLogo    = '1N6d9WRU_UzsSewLRPVHAN4wj1PWvega4'; // id file logo di google drive
+var idDataPegawai   = '1AR6Pib3fnr3MMuS7bUThWvaVQfSMBx7QFOZ97n7JTUg'; // id file spreadsheet
+var idFolderAbsensi = '1N1X-PPjtUgf20pXtSKKJOnrwV'; // id folder absensi
+var namaPerusahaan  = 'samuel ardhana co, ltd';
 
 // koordinat [lat,lon] --> koordinat bisa diambil dari google map (cek video di channel youtube saya)
 var lokasiPerusahaan = [-6.186079, 106.978706]; 
